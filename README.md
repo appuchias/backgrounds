@@ -1,10 +1,15 @@
- # Appu's wallpapers
+# Appu's wallpapers
 
-All of these can be used without any copyright issue.
+All images were obtained from [Unsplash](https://unsplash.com/), and are licensed Under the [CC0 license](LICENSE), with the following exceptions:
 
-External licenses:
- - ./catpuccin: [Catpuccin](https://github.com/catppuccin/wallpapers)
- - ./dracula-wallpapers: [dracula-wallpapers](https://github.com/aynp/dracula-wallpapers)
+Licensing exceptions:
+
+- ./MyPictures: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+
+- ./catpuccin: [catpuccin](https://github.com/catppuccin/wallpapers)
+
+- ./dracula-wallpapers: [dracula-wallpapers](https://github.com/aynp/dracula-wallpapers)
+
 ---
 
 Made with :black_heart: by [Appu](https://appu.ltd).
