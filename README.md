@@ -6,7 +6,7 @@ All images were obtained from [Unsplash](https://unsplash.com/), and are license
 
 Licensing exceptions:
 
-- ./MyPictures: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+- ./Appu's: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
 
 - ./catpuccin: [catpuccin](https://github.com/catppuccin/wallpapers)
 
